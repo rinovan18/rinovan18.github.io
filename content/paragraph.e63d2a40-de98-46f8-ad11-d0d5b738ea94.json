@@ -1,0 +1,58 @@
+{
+    "uuid": [
+        {
+            "value": "e63d2a40-de98-46f8-ad11-d0d5b738ea94"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "accordion_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1f14bef8-b3ea-43be-bd25-81134eb052a6"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_body": [
+        {
+            "value": "<p>Everything in DrupalX can be customized. You can adjust configurations, modify every Storybook component, and alter or remove any Bootstrap inclusion to suit your specific needs.<\/p>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_link": [],
+    "field_title": [
+        {
+            "value": "How much can I customize?"
+        }
+    ]
+}

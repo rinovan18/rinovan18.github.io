@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "6e3b8a3b-1c2e-44c7-8041-2da2cf20a290"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "nextjs.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2025-02\/nextjs.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 77822
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-20T01:37:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T01:37:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "uuid": [
+        {
+            "value": "3bdc0f46-d35f-4f1c-a63a-7184cc61cde3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "accordion_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1f14bef8-b3ea-43be-bd25-81134eb052a6"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-07T00:41:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_body": [
+        {
+            "value": "<p>DrupalX offers a wide range of features, including customizable templates, SEO tools, and integration capabilities. It also supports various plugins to enhance functionality. This ensures that you can tailor your website to meet specific needs.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_link": [],
+    "field_title": [
+        {
+            "value": "What features does it offer?"
+        }
+    ]
+}

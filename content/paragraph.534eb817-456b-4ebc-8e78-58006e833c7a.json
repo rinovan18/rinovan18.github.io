@@ -1,0 +1,83 @@
+{
+    "uuid": [
+        {
+            "value": "534eb817-456b-4ebc-8e78-58006e833c7a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-05T13:15:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [],
+    "field_features": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "14667da4-4f35-4526-aa4e-2ca699197571"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "5bd36a8c-bfd3-4cf0-a042-269b60ec2e91"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "599658f9-9a95-46ec-8772-a5f5089d64ab"
+        }
+    ],
+    "field_link": [],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "right"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>At DrupalX, we empower developers with cutting-edge tools designed for efficiency and creativity. Experience seamless integration and unparalleled performance that elevate your web projects.<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Discover the Future of Web Development with DrupalX's Innovative Tools"
+        }
+    ]
+}

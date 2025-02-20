@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "310706fc-bfc1-44c1-b291-9f0da1d9b027"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8f1dc90e-6bc7-4864-bc84-5e00e039c39f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/jenis-jenis-isim"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

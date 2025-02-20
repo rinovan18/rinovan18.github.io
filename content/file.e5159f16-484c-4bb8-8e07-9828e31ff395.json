@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "e5159f16-484c-4bb8-8e07-9828e31ff395"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "hero-default-icon.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/paragraphs_type_icon\/hero-default-icon.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 87674
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-18T13:42:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-18T13:42:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

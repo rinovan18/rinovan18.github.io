@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "08ed30e6-1a28-42ad-aa72-29effb9167b2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "pricing",
+            "target_type": "paragraphs_type",
+            "target_uuid": "5626b203-3684-4f7d-9219-5468d1799d9e"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-08T23:50:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [
+        {
+            "value": "Tailored DrupalX Offerings"
+        }
+    ],
+    "field_pricing_cards": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "75f6742d-5de6-4f7d-b103-eddb203d36df"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "a1433a04-9124-4446-b50e-a5587a70f53d"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>Tailor your DrupalX experience: choose between self-managed and full-service options<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Unlock the Full Potential of DrupalX"
+        }
+    ]
+}

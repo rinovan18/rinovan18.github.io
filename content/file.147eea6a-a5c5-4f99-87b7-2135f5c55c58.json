@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "147eea6a-a5c5-4f99-87b7-2135f5c55c58"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "graphql.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2025-02\/graphql.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 167985
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-20T01:37:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T01:37:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

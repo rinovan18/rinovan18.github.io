@@ -1,0 +1,66 @@
+{
+    "uuid": [
+        {
+            "value": "eef86b06-5fb4-488a-84a7-0d19383784cd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "hero",
+            "target_type": "paragraphs_type",
+            "target_uuid": "9393410c-155f-4912-b842-d60667df90e7"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_gambar": [],
+    "field_heading": [
+        {
+            "value": "DrupalX Resources",
+            "format": "restricted_html"
+        }
+    ],
+    "field_hero_layout": [
+        {
+            "value": "image_top"
+        }
+    ],
+    "field_link": [],
+    "field_link2": [],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_summary": []
+}

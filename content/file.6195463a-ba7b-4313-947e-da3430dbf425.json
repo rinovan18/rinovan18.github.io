@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "6195463a-ba7b-4313-947e-da3430dbf425"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "storybook.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2025-02\/storybook.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 5762
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-20T01:37:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T01:37:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

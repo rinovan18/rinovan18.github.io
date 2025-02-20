@@ -1,0 +1,70 @@
+{
+    "uuid": [
+        {
+            "value": "2ca38ce2-5d7b-4e6c-bea7-2fc5357f9b44"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [],
+    "field_features": [],
+    "field_link": [],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "df4fa9a5-27aa-4e3f-ac0a-7fff04c61e7f"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "left"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>Join the DrupalX ecosystem to unlock new possibilities in web development. Our platform combines the best of Drupal's robust backend with cutting-edge frontend technologies, enabling you to create powerful, scalable, and innovative web solutions.<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Elevate Your Web Development Skills with DrupalX"
+        }
+    ]
+}

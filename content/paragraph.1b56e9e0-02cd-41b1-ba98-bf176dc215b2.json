@@ -1,0 +1,64 @@
+{
+    "uuid": [
+        {
+            "value": "1b56e9e0-02cd-41b1-ba98-bf176dc215b2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "card_group",
+            "target_type": "paragraphs_type",
+            "target_uuid": "67283d7a-e711-4226-9f43-b45729639765"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_card": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "e07e3dc6-f7e9-4c95-a7a5-cb1a30755676"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "5399618b-880a-4c1b-b50a-7c87c21ef0a9"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "186ab2d7-63f5-4981-9bb5-ad2f3dfb99b1"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Card Group"
+        }
+    ]
+}

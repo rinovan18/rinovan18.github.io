@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "71caee4f-16c2-4b63-bfca-50e461325466"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-09T02:09:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [
+        {
+            "value": "Empower"
+        }
+    ],
+    "field_features": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "35e0768f-8d06-426b-946a-66136b5d94d7"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "413e92e5-a832-4af7-8466-4b7f110bee35"
+        }
+    ],
+    "field_link": [
+        {
+            "uri": "internal:\/",
+            "title": "Learn More",
+            "options": []
+        }
+    ],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "right"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>DrupalX is a powerful decoupled CMS that streamlines content management and enhances user experience. With its flexible architecture, you can easily integrate and scale your digital projects.<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Unleash Your Content with DrupalX"
+        }
+    ]
+}

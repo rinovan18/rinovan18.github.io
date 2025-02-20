@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "54d52c13-278a-4855-8de0-ecec00d7f73d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "newsletter",
+            "target_type": "paragraphs_type",
+            "target_uuid": "a1c82505-1045-4b25-8dc2-4bce05ea2c56"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "Sign up for the DrupalX newsletter to receive updates on new features and components.",
+            "format": ""
+        }
+    ],
+    "field_title": [
+        {
+            "value": "DrupalX Newsletter"
+        }
+    ]
+}

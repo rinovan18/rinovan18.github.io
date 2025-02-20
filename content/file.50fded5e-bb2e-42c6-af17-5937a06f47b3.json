@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "50fded5e-bb2e-42c6-af17-5937a06f47b3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "drupal.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2025-02\/drupal.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 4073
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-20T01:37:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T01:37:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

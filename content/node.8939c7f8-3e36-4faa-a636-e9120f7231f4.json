@@ -1,0 +1,160 @@
+{
+    "uuid": [
+        {
+            "value": "8939c7f8-3e36-4faa-a636-e9120f7231f4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "landing",
+            "target_type": "node_type",
+            "target_uuid": "f8ba7ce4-6a07-4a43-84f6-2738f844cd69"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2025-02-20T02:51:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "title": [
+        {
+            "value": "DrupalX Components List"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T04:32:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/components",
+            "langcode": "en"
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "2a67cb45-ebc8-43cc-851e-3204ec0d87ac"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "17abe610-24a9-4a12-ba6c-38b44f5a2ef1"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "4e31b53a-fa02-48d4-bf21-50416499f085"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "2e88b6b1-5591-4512-86b9-582f5307e80b"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "dcfe639c-bf23-4f08-8437-d02337cd3cf7"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "e63fa4e2-3b5c-4357-b64d-0d2d63aea2ea"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "45653689-2cfa-4e14-89f6-c9390be76c57"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "a3545a9e-536a-4181-80ab-12f061a16379"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "c4666fd4-5675-4761-a001-f4fd6ec97cf2"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "60e62e71-1248-4bf5-950c-b277f6be5aa4"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "11cf657b-d24c-4580-87bd-193509a8491d"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "54d52c13-278a-4855-8de0-ecec00d7f73d"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "3e60ef8e-bd6d-4801-9dee-0e4476dad546"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "1b56e9e0-02cd-41b1-ba98-bf176dc215b2"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "809c8174-66f0-4265-a93c-ec93fa547df9"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "534eb817-456b-4ebc-8e78-58006e833c7a"
+        }
+    ],
+    "field_hide_page_title": [
+        {
+            "value": true
+        }
+    ],
+    "field_meta_tags": [],
+    "field_summary": [],
+    "field_thumbnail": []
+}

@@ -1,0 +1,68 @@
+{
+    "uuid": [
+        {
+            "value": "c4666fd4-5675-4761-a001-f4fd6ec97cf2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "accordion",
+            "target_type": "paragraphs_type",
+            "target_uuid": "31c05a6f-5948-4a08-93b7-3033830b6ad4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_accordion_item": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "66c418ef-2e3b-4ccb-8bbb-eb0333282952"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "e63d2a40-de98-46f8-ad11-d0d5b738ea94"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "985a5178-73d7-4238-a4e7-c113ff93fac8"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "845faa33-0f5b-4deb-89da-eefff1991b05"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "DrupalX FAQ"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "uuid": [
+        {
+            "value": "9627102d-ac79-4040-b137-662a4e97a1c5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "hero",
+            "target_type": "paragraphs_type",
+            "target_uuid": "9393410c-155f-4912-b842-d60667df90e7"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_gambar": [],
+    "field_heading": [
+        {
+            "value": "<strong>Empower<\/strong> Your Web Development with <strong>DrupalX<\/strong>",
+            "format": "restricted_html"
+        }
+    ],
+    "field_hero_layout": [
+        {
+            "value": "image_top"
+        }
+    ],
+    "field_link": [
+        {
+            "uri": "entity:node\/8b7c111f-9ff6-493d-9ce8-61ba4005c0a5",
+            "title": "Start",
+            "options": []
+        }
+    ],
+    "field_link2": [
+        {
+            "uri": "entity:node\/ff3a2a74-3212-4684-ae7c-1c48c212f9e9",
+            "title": "Explore",
+            "options": []
+        }
+    ],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "df4fa9a5-27aa-4e3f-ac0a-7fff04c61e7f"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>Experience the next-gen platform that seamlessly integrates Drupal's powerful CMS with innovative front-end technologies. Elevate your projects with unmatched flexibility and performance.<\/p>",
+            "format": "basic_html"
+        }
+    ]
+}

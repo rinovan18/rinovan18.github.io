@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "a0fad8ac-66e6-46e1-95ef-05c3ed86f531"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "3528e072-11ce-4ce0-a4fe-561439270d02"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2025-02-20T01:37:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "name": [
+        {
+            "value": "drupal.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": null,
+            "title": null,
+            "width": 386,
+            "height": 100,
+            "target_type": "file",
+            "target_uuid": "50fded5e-bb2e-42c6-af17-5937a06f47b3"
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-20T01:37:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T01:37:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_image": [],
+    "field_media_image": [
+        {
+            "alt": null,
+            "title": "drupal.png",
+            "width": 386,
+            "height": 100,
+            "target_type": "file",
+            "target_uuid": "50fded5e-bb2e-42c6-af17-5937a06f47b3"
+        }
+    ]
+}

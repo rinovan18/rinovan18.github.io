@@ -1,0 +1,77 @@
+{
+    "uuid": [
+        {
+            "value": "75a62830-d9fb-43b0-9ac6-9a75fef27141"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "text",
+            "target_type": "paragraphs_type",
+            "target_uuid": "a50d2517-506b-4ccb-920c-03b69718b159"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-09-30T14:45:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_body": [
+        {
+            "value": "<p>Start building faster, more efficient websites today. Explore DrupalX's capabilities and see how it can transform your development process.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_eyebrow": [],
+    "field_link": [
+        {
+            "uri": "entity:node\/8b7c111f-9ff6-493d-9ce8-61ba4005c0a5",
+            "title": "Get Started",
+            "options": []
+        }
+    ],
+    "field_link2": [
+        {
+            "uri": "entity:node\/ff3a2a74-3212-4684-ae7c-1c48c212f9e9",
+            "title": "Learn More",
+            "options": []
+        }
+    ],
+    "field_text_layout": [
+        {
+            "value": "buttons-right"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Accelerate Your Web Development Journey"
+        }
+    ]
+}

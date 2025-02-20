@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "9fd25d6d-708c-4e6f-a593-e0f4cb655b69"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "diskusi.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2025-02\/diskusi.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 1791473
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-18T22:50:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-18T22:50:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

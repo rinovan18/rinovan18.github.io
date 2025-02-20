@@ -1,0 +1,57 @@
+{
+    "uuid": [
+        {
+            "value": "70be1e95-d42c-4a7b-ae17-96aa733ad23c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "views",
+            "target_type": "paragraphs_type",
+            "target_uuid": "2db714e3-4792-433a-9662-19e7e29cff9c"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_link": [],
+    "field_title": [],
+    "field_views_ref": [
+        {
+            "target_id": "recent_cards",
+            "display_id": "article_cards",
+            "arguments": "",
+            "items_to_display": "",
+            "target_type": "view",
+            "target_uuid": "f5f5e0b3-cee6-4585-a752-741eb910e170"
+        }
+    ]
+}

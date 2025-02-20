@@ -1,0 +1,80 @@
+{
+    "uuid": [
+        {
+            "value": "395c7d84-b5a9-4cc4-8a45-ea73935d0e56"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [
+        {
+            "value": "Project Template"
+        }
+    ],
+    "field_features": [],
+    "field_link": [
+        {
+            "uri": "https:\/\/github.com\/drupalninja\/drupalx-graphql",
+            "title": "Find out more",
+            "options": []
+        }
+    ],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "left"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "Visit our GitHub repository to download the DrupalX project template and start building your site today.",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "DrupalX for Developers"
+        }
+    ]
+}

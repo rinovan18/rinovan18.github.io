@@ -1,0 +1,58 @@
+{
+    "uuid": [
+        {
+            "value": "356ee371-fa86-4bde-9864-b1fefd918bf2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "accordion_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1f14bef8-b3ea-43be-bd25-81134eb052a6"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-07T00:42:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_body": [
+        {
+            "value": "<p>Yes, DrupalX provides dedicated support to all users. You can access a knowledge base, community forums, and direct assistance from our support team. We are committed to helping you succeed with your projects.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_link": [],
+    "field_title": [
+        {
+            "value": "Is support available?"
+        }
+    ]
+}

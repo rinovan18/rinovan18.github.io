@@ -1,0 +1,77 @@
+{
+    "uuid": [
+        {
+            "value": "215926f9-0efb-45d6-907b-34efd90903d9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "text",
+            "target_type": "paragraphs_type",
+            "target_uuid": "a50d2517-506b-4ccb-920c-03b69718b159"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-07T00:40:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_body": [
+        {
+            "value": "<p>Unlock your web development potential today with our innovative and user-friendly platform.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_eyebrow": [],
+    "field_link": [
+        {
+            "uri": "internal:\/",
+            "title": "Get Started",
+            "options": []
+        }
+    ],
+    "field_link2": [
+        {
+            "uri": "internal:\/",
+            "title": "Learn More",
+            "options": []
+        }
+    ],
+    "field_text_layout": [
+        {
+            "value": "left"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Start Your Journey with DrupalX"
+        }
+    ]
+}

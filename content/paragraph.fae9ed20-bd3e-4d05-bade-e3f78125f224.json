@@ -1,0 +1,58 @@
+{
+    "uuid": [
+        {
+            "value": "fae9ed20-bd3e-4d05-bade-e3f78125f224"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "accordion_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1f14bef8-b3ea-43be-bd25-81134eb052a6"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-07T00:41:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_body": [
+        {
+            "value": "<p>DrupalX is a powerful web development platform designed for modern websites. It combines flexibility with user-friendly features, making it suitable for developers of all skill levels. With its robust tools, you can create stunning, responsive websites efficiently.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_link": [],
+    "field_title": [
+        {
+            "value": "What is DrupalX?"
+        }
+    ]
+}

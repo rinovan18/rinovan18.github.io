@@ -1,0 +1,67 @@
+{
+    "uuid": [
+        {
+            "value": "60e62e71-1248-4bf5-950c-b277f6be5aa4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "quote",
+            "target_type": "paragraphs_type",
+            "target_uuid": "8c10352f-8f9a-44f1-8dc6-95a1b804cca9"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_author": [
+        {
+            "value": "John Doe"
+        }
+    ],
+    "field_job_title": [
+        {
+            "value": "Web Developer"
+        }
+    ],
+    "field_logo": [
+        {
+            "target_type": "media",
+            "target_uuid": "b4f6b2b6-e77a-4690-8e7b-c832ae629f84"
+        }
+    ],
+    "field_quote": [
+        {
+            "value": "This is a quote from a satisfied DrupalX user."
+        }
+    ],
+    "field_thumb": []
+}

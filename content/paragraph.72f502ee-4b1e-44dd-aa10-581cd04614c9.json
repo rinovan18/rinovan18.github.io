@@ -1,0 +1,58 @@
+{
+    "uuid": [
+        {
+            "value": "72f502ee-4b1e-44dd-aa10-581cd04614c9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "accordion_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1f14bef8-b3ea-43be-bd25-81134eb052a6"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-07T00:42:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_body": [
+        {
+            "value": "<p>Yes, we offer a free trial of DrupalX. This allows you to explore its features and capabilities without any commitment. Sign up today to start your journey with us!<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_link": [],
+    "field_title": [
+        {
+            "value": "Can I try it?"
+        }
+    ]
+}

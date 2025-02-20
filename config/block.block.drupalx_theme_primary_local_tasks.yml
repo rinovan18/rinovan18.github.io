@@ -1,0 +1,22 @@
+uuid: 19b5fb6b-aed6-4f2e-bb4b-df28037241ac
+langcode: en
+status: true
+dependencies:
+  theme:
+    - drupalx_theme
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: drupalx_theme_primary_local_tasks
+theme: drupalx_theme
+region: primary_menu
+weight: -6
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }

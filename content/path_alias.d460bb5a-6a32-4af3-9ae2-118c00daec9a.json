@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d460bb5a-6a32-4af3-9ae2-118c00daec9a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c4a5cb28-4bfb-400f-b444-f2ca82a318511b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/article-title-1"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+uuid: 230b1be0-5963-4108-8e5b-c8368c2f49e4
+langcode: en
+status: false
+dependencies:
+  module:
+    - search
+  theme:
+    - drupalx_theme
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: drupalx_theme_search_form_wide
+theme: drupalx_theme
+region: primary_menu
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

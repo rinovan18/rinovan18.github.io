@@ -1,0 +1,58 @@
+{
+    "uuid": [
+        {
+            "value": "413e92e5-a832-4af7-8466-4b7f110bee35"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "stats_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "64db9b76-d7ae-4228-9c0c-faaff68463de"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-09T02:10:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_custom_icon": [],
+    "field_icon": [],
+    "field_summary": [
+        {
+            "value": "Experience unmatched flexibility and control over your content delivery and management.",
+            "format": ""
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Why Choose"
+        }
+    ]
+}

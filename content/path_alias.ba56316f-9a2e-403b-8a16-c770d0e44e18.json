@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ba56316f-9a2e-403b-8a16-c770d0e44e18"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/47e698b2-0b56-4672-a023-cd9ede13ebc2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/resources"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

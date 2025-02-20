@@ -1,0 +1,64 @@
+{
+    "uuid": [
+        {
+            "value": "83b95c4b-8d2c-4144-a890-33754447d9a0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "card_group",
+            "target_type": "paragraphs_type",
+            "target_uuid": "67283d7a-e711-4226-9f43-b45729639765"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-07T00:28:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_card": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "0133e79b-e9c3-40b3-a881-e2bf8c3e9dca"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "e52007df-2ce0-45bf-9045-3c1c9f4ab9f1"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "714b3fcb-fc55-4cd1-9fd0-36e0b8a603e0"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Discover Our Cutting-Edge Features"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "uuid": [
+        {
+            "value": "c3575d66-3e81-4bd0-8fbe-7ac67b938687"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "landing",
+            "target_type": "node_type",
+            "target_uuid": "f8ba7ce4-6a07-4a43-84f6-2738f844cd69"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2025-02-20T00:32:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "title": [
+        {
+            "value": "DrupalX - AI-Powered Lightning Fast Development"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T02:37:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/welcome",
+            "langcode": "en"
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "9627102d-ac79-4040-b137-662a4e97a1c5"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "e513b14e-b9b2-4f90-b556-f6f1e4796dd9"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "1d91a0bb-4542-4fbb-bfc2-dfd49eaa4153"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "2c7ae251-4296-49b7-8f17-ce3a6cab52e2"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "2ca38ce2-5d7b-4e6c-bea7-2fc5357f9b44"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "75a62830-d9fb-43b0-9ac6-9a75fef27141"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "87e65230-43e0-488f-82f1-505eb04bd3b3"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "44ff5bf6-9846-449d-a618-1ec72d05bafc"
+        }
+    ],
+    "field_hide_page_title": [
+        {
+            "value": true
+        }
+    ],
+    "field_meta_tags": [],
+    "field_summary": [],
+    "field_thumbnail": []
+}

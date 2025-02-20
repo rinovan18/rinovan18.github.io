@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "181db973-1cf2-42eb-a5f9-66300d160c37"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "hero",
+            "target_type": "paragraphs_type",
+            "target_uuid": "9393410c-155f-4912-b842-d60667df90e7"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_gambar": [],
+    "field_heading": [
+        {
+            "value": "Contact Us",
+            "format": "restricted_html"
+        }
+    ],
+    "field_hero_layout": [
+        {
+            "value": "image_top"
+        }
+    ],
+    "field_link": [],
+    "field_link2": [],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "df4fa9a5-27aa-4e3f-ac0a-7fff04c61e7f"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "Have a question about DrupalX? We're here to help! Drop us a message and we'll get back to you soon.",
+            "format": "basic_html"
+        }
+    ]
+}

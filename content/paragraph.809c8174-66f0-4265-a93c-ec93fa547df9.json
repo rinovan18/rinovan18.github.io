@@ -1,0 +1,64 @@
+{
+    "uuid": [
+        {
+            "value": "809c8174-66f0-4265-a93c-ec93fa547df9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "card_group",
+            "target_type": "paragraphs_type",
+            "target_uuid": "67283d7a-e711-4226-9f43-b45729639765"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-09-26T19:43:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_card": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "59951ca5-abec-4ef8-8c89-323385b7175e"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "e035018c-dec4-4b00-9860-9466fe2d03c8"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "4f715fc5-5ac3-40a1-a1bd-e01d3969881f"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Stats Group"
+        }
+    ]
+}

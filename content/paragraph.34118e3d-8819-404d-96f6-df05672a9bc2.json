@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "34118e3d-8819-404d-96f6-df05672a9bc2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "stats_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "64db9b76-d7ae-4228-9c0c-faaff68463de"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-09-26T21:13:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_custom_icon": [],
+    "field_icon": [
+        {
+            "value": "git-branch"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "Leverage the power of React and Node.js to dramatically improve your website's efficiency and speed.",
+            "format": ""
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Experience seamless integration and flexibility with our Decoupled Architecture."
+        }
+    ]
+}

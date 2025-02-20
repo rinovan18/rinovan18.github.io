@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "7239b381-0b48-4c22-adf6-98258c3ad950"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "card.webp"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2025-02\/card_0.webp"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/webp"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 5170
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-20T03:15:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T03:15:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

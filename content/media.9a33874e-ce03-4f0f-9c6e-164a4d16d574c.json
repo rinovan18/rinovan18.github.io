@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "9a33874e-ce03-4f0f-9c6e-164a4d16d574c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "3528e072-11ce-4ce0-a4fe-561439270d02"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2025-02-20T04:19:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "name": [
+        {
+            "value": "card"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": null,
+            "title": null,
+            "width": 180,
+            "height": 180,
+            "target_type": "file",
+            "target_uuid": "c367c770-b8eb-4e36-9bdc-0e21dc0369b5"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T04:19:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "card",
+            "title": "card",
+            "width": 1248,
+            "height": 832,
+            "target_type": "file",
+            "target_uuid": "555a9873-707d-4f42-8f00-3f5f092d6d6a"
+        }
+    ],
+    "field_media_image": []
+}

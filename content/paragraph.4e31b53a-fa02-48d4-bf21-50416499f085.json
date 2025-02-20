@@ -1,0 +1,80 @@
+{
+    "uuid": [
+        {
+            "value": "4e31b53a-fa02-48d4-bf21-50416499f085"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [
+        {
+            "value": "DrupalX Content"
+        }
+    ],
+    "field_features": [],
+    "field_link": [
+        {
+            "uri": "internal:\/resources",
+            "title": "Read DrupalX articles",
+            "options": []
+        }
+    ],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "left"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>DrupalX provides a user-friendly editing experience with fully integrated layout builder components for seamless content management.<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "DrupalX Content Management"
+        }
+    ]
+}

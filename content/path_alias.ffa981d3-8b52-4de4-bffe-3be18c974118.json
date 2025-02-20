@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ffa981d3-8b52-4de4-bffe-3be18c974118"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0cbb2453-798d-460f-b499-622892f6eae2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/drupal-home"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

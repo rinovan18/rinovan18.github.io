@@ -1,0 +1,58 @@
+{
+    "uuid": [
+        {
+            "value": "54591c8f-5ba3-436e-a2a4-06936c5ec461"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "stats_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "64db9b76-d7ae-4228-9c0c-faaff68463de"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-05T14:26:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_custom_icon": [],
+    "field_icon": [],
+    "field_summary": [
+        {
+            "value": "Protect your website with advanced security features and regular updates.",
+            "format": ""
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Robust Security"
+        }
+    ]
+}

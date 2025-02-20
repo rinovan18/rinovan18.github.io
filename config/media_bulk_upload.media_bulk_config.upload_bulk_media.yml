@@ -1,0 +1,17 @@
+uuid: bbef167c-011e-4c82-b7d9-348dfba352cc
+langcode: en
+status: true
+dependencies: {  }
+id: upload_bulk_media
+label: 'Upload bulk media'
+media_types:
+  document: document
+  image: image
+  audio: 0
+  remote_video: 0
+  svg_image: 0
+  video: 0
+form_mode: media_library
+upload_location: ''
+show_alt: null
+show_title: null

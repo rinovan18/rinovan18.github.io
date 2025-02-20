@@ -1,0 +1,52 @@
+{
+    "uuid": [
+        {
+            "value": "0d39d118-59ce-49ec-8b0d-92fca6c11172"
+        }
+    ],
+    "hash": [
+        {
+            "value": "FConNj3qvA8rwOCvTgMCsB6bwzzpWmFA4gF45vMqlws"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "redirect_source": [
+        {
+            "path": "mkm",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/1",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "en"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-19T06:10:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

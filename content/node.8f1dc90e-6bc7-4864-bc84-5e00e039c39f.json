@@ -1,0 +1,108 @@
+{
+    "uuid": [
+        {
+            "value": "8f1dc90e-6bc7-4864-bc84-5e00e039c39f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "landing",
+            "target_type": "node_type",
+            "target_uuid": "f8ba7ce4-6a07-4a43-84f6-2738f844cd69"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2025-02-18T23:06:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "title": [
+        {
+            "value": "Jenis-jenis Isim"
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-18T14:28:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-19T07:41:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/jenis-jenis-isim",
+            "langcode": "en"
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "8d7be06d-e0b1-4936-ba80-6d85926653bb"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "287466fe-08e6-4c91-b552-08ee5200229a"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "a6c14381-0260-497b-a8f4-6c56bc4314a3"
+        }
+    ],
+    "field_hide_page_title": [
+        {
+            "value": false
+        }
+    ],
+    "field_meta_tags": [],
+    "field_summary": [],
+    "field_thumbnail": []
+}

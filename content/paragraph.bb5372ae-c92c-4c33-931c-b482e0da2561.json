@@ -1,0 +1,80 @@
+{
+    "uuid": [
+        {
+            "value": "bb5372ae-c92c-4c33-931c-b482e0da2561"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [
+        {
+            "value": "Bootstrap UI Kits"
+        }
+    ],
+    "field_features": [],
+    "field_link": [
+        {
+            "uri": "https:\/\/www.figma.com\/community\/search?resource_type=mixed&sort_by=relevancy&query=bootstrap+5&editor_type=all&price=all&creators=all",
+            "title": "Browse Figma UI kits",
+            "options": []
+        }
+    ],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "right"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "Leverage a variety of Figma community templates built on Bootstrap 5 to jumpstart your design process.",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "DrupalX for Designers"
+        }
+    ]
+}

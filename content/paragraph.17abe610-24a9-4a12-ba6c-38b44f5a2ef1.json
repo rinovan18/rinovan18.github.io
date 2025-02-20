@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "17abe610-24a9-4a12-ba6c-38b44f5a2ef1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [
+        {
+            "value": "DrupalX Features"
+        }
+    ],
+    "field_features": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "bcb7a1f7-c196-42f9-884f-f5fe5cf334bf"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "c7f81aea-7f20-4f00-b987-2cab1599fe89"
+        }
+    ],
+    "field_link": [
+        {
+            "uri": "internal:\/features",
+            "title": "Explore features",
+            "options": []
+        }
+    ],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "right"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>The DrupalX template offers top-tier development tools and components for building a site quickly and efficiently.<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "DrupalX Rapid Development"
+        }
+    ]
+}

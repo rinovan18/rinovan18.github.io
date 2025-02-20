@@ -1,0 +1,81 @@
+{
+    "uuid": [
+        {
+            "value": "dcfe639c-bf23-4f08-8437-d02337cd3cf7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "text",
+            "target_type": "paragraphs_type",
+            "target_uuid": "a50d2517-506b-4ccb-920c-03b69718b159"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_body": [
+        {
+            "value": "The DrupalX documentation provides detailed information on how to use the DrupalX template and its components.",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_eyebrow": [
+        {
+            "value": "Test eyebrow"
+        }
+    ],
+    "field_link": [
+        {
+            "uri": "internal:\/documentation",
+            "title": "Read documentation",
+            "options": []
+        }
+    ],
+    "field_link2": [
+        {
+            "uri": "internal:\/",
+            "title": "Link 2",
+            "options": []
+        }
+    ],
+    "field_text_layout": [
+        {
+            "value": "left"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Left-aligned Text"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "uuid": [
+        {
+            "value": "75f6742d-5de6-4f7d-b103-eddb203d36df"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "pricing_card",
+            "target_type": "paragraphs_type",
+            "target_uuid": "f6cf1a4c-0134-4626-89c0-d22db5b5f677"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-08T23:51:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [
+        {
+            "value": "DrupalX CMS Platform"
+        }
+    ],
+    "field_features_text": [
+        {
+            "value": "Full access to open source features\r\nCommunity support\r\nDocumentation\r\nAI development features"
+        }
+    ],
+    "field_link": [
+        {
+            "uri": "entity:node\/8b7c111f-9ff6-493d-9ce8-61ba4005c0a5",
+            "title": "Get Started",
+            "options": []
+        }
+    ],
+    "field_suffix": [],
+    "field_title": [
+        {
+            "value": "Free"
+        }
+    ]
+}

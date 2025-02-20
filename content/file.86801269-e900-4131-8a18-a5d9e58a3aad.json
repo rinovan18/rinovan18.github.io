@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "86801269-e900-4131-8a18-a5d9e58a3aad"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "sholat-arah-kiblat-di-luar-rumah.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2025-02\/sholat-arah-kiblat-di-luar-rumah.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 49720
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-18T14:29:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-18T14:29:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

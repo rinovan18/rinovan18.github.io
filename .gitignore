@@ -1,0 +1,6 @@
+/vendor/
+/web
+/drush
+.idea
+/.editorconfig
+/.gitattributes

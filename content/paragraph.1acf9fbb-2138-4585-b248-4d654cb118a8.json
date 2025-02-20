@@ -1,0 +1,63 @@
+{
+    "uuid": [
+        {
+            "value": "1acf9fbb-2138-4585-b248-4d654cb118a8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "pricing",
+            "target_type": "paragraphs_type",
+            "target_uuid": "5626b203-3684-4f7d-9219-5468d1799d9e"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-18T15:36:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "field_eyebrow": [
+        {
+            "value": "ll"
+        }
+    ],
+    "field_pricing_cards": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "a59e3980-6161-43b9-bea5-1a5d79414b9b"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><em>Warning<\/em>: rename(sites\/default\/files\/php\/twig\/.VLQRumTPhUfpw5ORu7jvz0SCwZI,sites\/default\/files\/php\/twig\/67b4a1621fa01_drupalx_theme:heading_RADLPxKbXAwvcTKjIsI2hUWyH\/PFifIStmgjl3Yj3Yo1-oZlEQxZFXSwK_rxkYZyg2xsU.php): The system cannot find the path specified (code: 3) in <em>Drupal\\Component\\PhpStorage\\MTimeProtectedFastFileStorage-&gt;save()<\/em> (line <em>88<\/em> of <em>C:\\Users\\Administrator\\Downloads\\git\\rinovan18\\drupalx\\web\\core\\lib\\Drupal\\Component\\PhpStorage\\MTimeProtectedFastFileStorage.php<\/em>)<br>&nbsp;<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Unmatched Advantages of DrupalX"
+        }
+    ]
+}

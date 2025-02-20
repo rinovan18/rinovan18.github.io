@@ -1,0 +1,58 @@
+{
+    "uuid": [
+        {
+            "value": "35e0768f-8d06-426b-946a-66136b5d94d7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "stats_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "64db9b76-d7ae-4228-9c0c-faaff68463de"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-09T02:10:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_custom_icon": [],
+    "field_icon": [],
+    "field_summary": [
+        {
+            "value": "Seamless integration, customizable solutions, and robust performance for all your content needs.",
+            "format": ""
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Key Features"
+        }
+    ]
+}

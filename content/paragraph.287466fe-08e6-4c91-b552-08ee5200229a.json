@@ -1,0 +1,79 @@
+{
+    "uuid": [
+        {
+            "value": "287466fe-08e6-4c91-b552-08ee5200229a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-18T15:38:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [],
+    "field_features": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "bb516e85-eea4-422e-873a-ec9dc7cca45c"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "7f3b7e6c-333f-4078-8247-340eaaf8e70c"
+        }
+    ],
+    "field_link": [],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "df4fa9a5-27aa-4e3f-ac0a-7fff04c61e7f"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "right"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><em>Elevate Your Web Development with DrupalX's Cutting-Edge Features<\/em><\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Unmatched Advantages of DrupalX"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "70e0edb2-d794-464b-9741-a4ed074facb0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "filename": [
+        {
+            "value": "card_0.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2025-02\/card_0.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 519034
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-20T02:54:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T02:54:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

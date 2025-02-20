@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "a7f738c7-2c47-4b45-b080-08efad83bdf6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "stats_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "64db9b76-d7ae-4228-9c0c-faaff68463de"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-09-26T21:13:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_custom_icon": [],
+    "field_icon": [
+        {
+            "value": "zap"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "Deliver lightning-quick load times and smooth interactions that keep your audience coming back.",
+            "format": ""
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Achieve Blazing Fast Performance That Keeps Your Users Engaged and Satisfied"
+        }
+    ]
+}

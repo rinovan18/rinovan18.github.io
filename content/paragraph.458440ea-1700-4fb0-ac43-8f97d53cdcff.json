@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "458440ea-1700-4fb0-ac43-8f97d53cdcff"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "bullet",
+            "target_type": "paragraphs_type",
+            "target_uuid": "cac4196c-c45d-4d90-85e9-d5ac6988e497"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-05T14:23:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_icon": [
+        {
+            "value": "box"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>Streamlined workflows for faster project delivery.<\/p>",
+            "format": "basic_html"
+        }
+    ]
+}

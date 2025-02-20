@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "e277c23a-dbb0-4e69-87f7-65db0b5b9c75"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "bullet",
+            "target_type": "paragraphs_type",
+            "target_uuid": "cac4196c-c45d-4d90-85e9-d5ac6988e497"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-05T14:24:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_icon": [
+        {
+            "value": "box"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>User-friendly interface for all skill levels.<\/p>",
+            "format": "basic_html"
+        }
+    ]
+}

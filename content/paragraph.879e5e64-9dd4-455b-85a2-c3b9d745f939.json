@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "879e5e64-9dd4-455b-85a2-c3b9d745f939"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "carousel_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "f5d70927-f007-4b5d-8557-d4bc37c5cbbd"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "This is the third carousel item.",
+            "format": ""
+        }
+    ],
+    "field_title": [
+        {
+            "value": "DrupalX Carousel Item 3"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "ffb8ba93-130e-4c96-8e77-876d3bb614e8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "0cd9940c-a23e-42ee-8b03-127b554bc6d8"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2025-02-20T04:46:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "e39f16e0-f90b-40ba-b809-4f9156f7182b"
+        }
+    ],
+    "title": [
+        {
+            "value": "Access denied"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T04:46:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/access-denied",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>We're sorry, but you do not have permission to access this page. Please contact the site administrator if you believe this is an error, or click the button below to return to the homepage.<\/p>\n      <a href=\"\/\">Return to homepage<\/a>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_media": [],
+    "field_meta_tags": [],
+    "field_summary": [],
+    "field_thumbnail": []
+}

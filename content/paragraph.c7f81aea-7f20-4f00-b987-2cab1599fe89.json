@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "c7f81aea-7f20-4f00-b987-2cab1599fe89"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "stats_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "64db9b76-d7ae-4228-9c0c-faaff68463de"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-09-26T19:59:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_custom_icon": [],
+    "field_icon": [
+        {
+            "value": "box"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "Leverage intelligent algorithms to enhance site speed and user experience effortlessly.",
+            "format": ""
+        }
+    ],
+    "field_title": [
+        {
+            "value": "AI Optimization"
+        }
+    ]
+}

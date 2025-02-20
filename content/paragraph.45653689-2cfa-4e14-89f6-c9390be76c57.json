@@ -1,0 +1,73 @@
+{
+    "uuid": [
+        {
+            "value": "45653689-2cfa-4e14-89f6-c9390be76c57"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "gallery",
+            "target_type": "paragraphs_type",
+            "target_uuid": "9d2de566-909f-4e08-9f6f-fa290d003822"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_body": [
+        {
+            "value": "<p>View images of the DrupalX template and its components.<\/p>",
+            "format": "basic_html",
+            "summary": "basic_html"
+        }
+    ],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "1dd1bca7-4c97-4a6b-bad2-610824f40767"
+        }
+    ],
+    "field_media_item": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        },
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "DrupalX Gallery"
+        }
+    ]
+}

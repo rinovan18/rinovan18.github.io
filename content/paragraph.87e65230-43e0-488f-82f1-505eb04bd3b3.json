@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "87e65230-43e0-488f-82f1-505eb04bd3b3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "newsletter",
+            "target_type": "paragraphs_type",
+            "target_uuid": "a1c82505-1045-4b25-8dc2-4bce05ea2c56"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-09-30T20:52:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>Get the latest product updates, feature releases, and optimization tips delivered straight to your inbox.<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Stay Informed with DrupalX"
+        }
+    ]
+}

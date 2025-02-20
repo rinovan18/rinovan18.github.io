@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "4406477e-bd04-4518-a250-fd4a057ce35f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [
+        {
+            "value": "Innovate"
+        }
+    ],
+    "field_features": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "958866b3-ffc8-44c8-916d-94a6898d4839"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "54591c8f-5ba3-436e-a2a4-06936c5ec461"
+        }
+    ],
+    "field_link": [
+        {
+            "uri": "internal:\/",
+            "title": "Learn more",
+            "options": []
+        }
+    ],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "right"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>DrupalX empowers you to build dynamic websites with ease. Our platform combines cutting-edge technology with user-friendly features.<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Experience the Future of Web Development"
+        }
+    ]
+}

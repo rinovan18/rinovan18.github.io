@@ -1,0 +1,64 @@
+{
+    "uuid": [
+        {
+            "value": "845faa33-0f5b-4deb-89da-eefff1991b05"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "accordion_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1f14bef8-b3ea-43be-bd25-81134eb052a6"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_body": [
+        {
+            "value": "<p>Of course. Explore how DrupalX can be used across various types of sites.<\/p>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_link": [
+        {
+            "uri": "internal:\/resources",
+            "title": "Read DrupalX articles",
+            "options": []
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Can I see examples of other sites created with DrupalX?"
+        }
+    ]
+}
