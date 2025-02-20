@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "c62053bf-5c81-4dd9-8d23-1a04ead6b0d8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "accordion",
+            "target_type": "paragraphs_type",
+            "target_uuid": "31c05a6f-5948-4a08-93b7-3033830b6ad4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-20T14:36:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_accordion_item": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "85864e93-25b7-4347-b032-562408537200"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "DrupalX FAQ"
+        }
+    ]
+}
