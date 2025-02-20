@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://drupalx.andyux.my.id/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://rinovan18.github.io/">
   <channel>
     <title>Drush Site-Install</title>
-    <link>http://drupalx.andyux.my.id/</link>
+    <link>https://rinovan18.github.io/</link>
     <description/>
     <language>en</language>
     
